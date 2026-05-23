@@ -5,5 +5,5 @@ A random ass log package generator that I made while I was bored. Do not use thi
 I made this for no reason.
 Use it if you want, don't complain to me if it doesn't work lol.
 
-Also, no instructions?
-![](https://tenor.com/view/figure-it-out-fan-shout-bleachers-gif-5601945)
+Also, no instructions?<br/>
+![](https://media1.tenor.com/m/--YE4212eLYAAAAd/figure-it-out-fan.gif)
