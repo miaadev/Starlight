@@ -1,7 +1,7 @@
 # Starlight
 
 > [!WARNING]
-> Yes, I chucked the DLLs into the bin folder. I'll upload the actual code tomorrow, I'm tired.
+> Yes, I chucked the dependancy DLLs into the bin folder. I'll upload the actual code tomorrow, I'm tired.
 
 A random ass log package generator that I made while I was bored. Do not use this for any serious shit as it is completely useless (I think).
 
